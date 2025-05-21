@@ -1,7 +1,7 @@
 """
 app_new.py
 
-Author: Rupesh
+Author: Rupesh Kr
 """
 
 import streamlit as st
