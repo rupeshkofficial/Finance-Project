@@ -166,4 +166,4 @@ if st.sidebar.button("Export Data to CSV"):
     tracker.save_to_csv(selected_index)
     st.sidebar.success(f"Data for {selected_index} exported!")
 
-st.caption("© 2025 Options Analytics Dashboard. Developed by Rupesh.")
+st.caption("© 2025 Options Analytics Dashboard. Developed by Rupesh Kr.")
